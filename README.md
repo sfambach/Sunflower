@@ -1,6 +1,6 @@
 # Sunflower
  
-this is a fork of the original sunflower porject written by a chinese guy.
+this is a fork of the original sunflower porject written by shihaipeng03.
 Find the original project under the following link:
 
 https://github.com/shihaipeng03/Sunflower
