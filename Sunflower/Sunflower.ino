@@ -1,7 +1,12 @@
-//Written by https://somebodys.taobao.com/
-//2019/06/04 https://www.ixigua.com/i6765878731480236547/
-// changed by S. Fambach
-// visit www.fambach.net if you want.
+// Sunflower 
+// 4 Light dependent resistors are checking the sun. 
+// If the sun changes (earth is more possibly ;) ) the sensors are getting differten values
+// depending on that values a movement for the panel is calculated to get the most sun.
+//
+//
+// 2019/06/04 Written by https://somebodys.taobao.com/ https://www.ixigua.com/i6765878731480236547/
+// 2021/06/04 Changed by S. Fambach visit www.fambach.net if you want.
+// 
 // needed libs
 // Servo (included in the arduino gui)
 //
